@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  WChat
+
+  Created by David Kababyan on 20/07/2018.
+  Copyright © 2018 David Kababyan. All rights reserved.
+*/
+
+"SIN_INCOMING_CALL" = "Incoming Call";
+"SIN_CANCEL_CALL" = "Cancel Call";
+
