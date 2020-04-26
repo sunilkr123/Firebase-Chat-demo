@@ -7,9 +7,9 @@
 	<key>REVERSED_CLIENT_ID</key>
 	<string>com.googleusercontent.apps.238295963157-ktm2jici4f1tjpuchvrmn72idoamufei</string>
 	<key>API_KEY</key>
-	<string>AIzaSyA4o-r6kFPYviPI-VglOaG14PL7JKyAxXA</string>
+	<string>Replace your API key</string>
 	<key>GCM_SENDER_ID</key>
-	<string>238295963157</string>
+	<string>Replace your GCM_SENDER_ID</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
@@ -29,7 +29,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:238295963157:ios:b83b8ba6b4023e7e16a01c</string>
+	<string>GOOGLE_APP_ID</string>
 	<key>DATABASE_URL</key>
 	<string>https://fir-chat-8e216.firebaseio.com</string>
 </dict>
