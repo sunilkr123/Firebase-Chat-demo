@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>238295963157-ktm2jici4f1tjpuchvrmn72idoamufei.apps.googleusercontent.com</string>
+	<string>CLIENT_ID</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.238295963157-ktm2jici4f1tjpuchvrmn72idoamufei</string>
+	<string>REVERSED_CLIENT_ID</string>
 	<key>API_KEY</key>
 	<string>Replace your API key</string>
 	<key>GCM_SENDER_ID</key>
